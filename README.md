@@ -4,6 +4,10 @@ RoboTW
 FB:  RoboTW 機器人論壇
 FB:  https://www.facebook.com/groups/540271770146161/
 
+
+FB:  靜改動小車車技研 論壇
+FB:  https://www.facebook.com/groups/975301903011085
+
 這個程式是用來配合V7RC 手機APP 的，可以同時利用BLE 控制載具 並利用WIFI 進行即時影像接收。
 This Program is used with V7RC app @ Apple Store and Google Play. It can be used to control Servos and DIOS with BLE and get real time Video via Wi-fi link.
 
